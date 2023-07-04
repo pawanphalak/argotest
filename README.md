@@ -1,3 +1,3 @@
 # argotest
 
-sample 123456
+sample 12345678
