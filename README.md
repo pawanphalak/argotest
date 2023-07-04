@@ -1,3 +1,3 @@
 # argotest
 
-sample
+sample 12
